@@ -6,7 +6,11 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+---
 
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
 
 ## 代表性SCI期刊论文：
  * [ L. Zhang, P. Lin, “Reinforcement Learning Based Energy-Neutral Operation for Hybrid EH Powered TBAN,” Future Generation Computer Systems, vol. 140, pp. 311-320, 2023. (JCR Q1, 中科院Top)](http://leizhanggg.github.io/files/1_Reinforcement Learning Based Energy-Neutral Operation for Hybrid EH Powered TBAN(1).pdf)
@@ -17,8 +21,8 @@ redirect_from:
  * [L. Zhang, J. Rodriguez Pineiro, J. R. O. Fernandez, J. A. Garcia-Naya, D. W. Matolak, C. Briso, L. Castedo, “Propagation Modeling for Outdoor-to-Indoor and Indoor-to-Indoor Wireless Links in High-speed Train,” Measurement, vol. 110, no., pp.43-52, 2017 (JCR Q1, 中科院二区)](https://leizhanggg.github.io/files/6Propagation Modeling for Outdoor-to-Indoor and Indoor-to-Indoor Wireless Links in High-speed Train.pdf)
  * [L. Zhang, C. Briso, J.R.O. Fernandez, J.I. Alonso, C. Rodriguez, J. Moreno Garcia, K. Guan, “Delay Spread and Electromagnetic Reverberation in Subway Tunnels and Stations,” IEEE Antennas and Wireless Propagation Letters, vol. 15, no., pp.585-588, 2016 (JCR Q1, 中科院Top)](https://leizhanggg.github.io/files/7Delay Spread and Electromagnetic Reverberation in Subway Tunnels and Stations.pdf)
  * [M. Zhai, L. Zhang*, D. Li, “Efficient Modeling of Dispersive Media in Leapfrog WCS-FDTD Method,” IEEE Microwave and Wireless Components Letters, vol. 30, no. 3, pp. 225-228, 2020 (JCR Q2, 中科院二区)](https://docs.mathjax.org/en/latest/)
- * [ L. Zhang, Q. Ni, G. Zhang, M. Zhai, J. Moreno, C. Briso, “Random Forests-enabled Context Detections for Long-term Evolution Network for Railway,” IET Microwaves Antennas & Propagation, Vol. 13, Issue 8, pp. 1080-1086, 2019 (JCR Q3)](https://docs.mathjax.org/en/latest/)
- * [L. Zhang, J. Moreno, C. Briso, “Experimental Characterization and Modelling of Intra-Car Communications Inside High-Speed Trains,” IET Microwaves Antennas & Propagation, Vol. 13, no. 8, pp. 1060 -1064, 2019 (JCR Q3)](https://docs.mathjax.org/en/latest/)
+ * [ L. Zhang, Q. Ni, G. Zhang, M. Zhai, J. Moreno, C. Briso, “Random Forests-enabled Context Detections for Long-term Evolution Network for Railway,” IET Microwaves Antennas & Propagation, Vol. 13, Issue 8, pp. 1080-1086, 2019 (JCR Q3)]()
+ * [L. Zhang, J. Moreno, C. Briso, “Experimental Characterization and Modelling of Intra-Car Communications Inside High-Speed Trains,” IET Microwaves Antennas & Propagation, Vol. 13, no. 8, pp. 1060 -1064, 2019 (JCR Q3)]()
 
 ## 国际会议论文：
 
@@ -29,7 +33,6 @@ redirect_from:
 * L. Zhang, J. Ding, B. Zhang, C. B. Rodriguez and K. Guan, “Measurement and Analysis of the Broadband Radio Propagation in a High-Speed Railway Station,” IEEE 83rd Vehicular Technology Conference (VTC Spring), Nanjing, China, 2016, pp. 1-4
 * …
 
-
 ## 发明专利：
 
 * 复杂室内环境下一种基于改进粒子滤波的无线定位方法 (CN110333479A)
@@ -39,4 +42,3 @@ redirect_from:
 * 一种基于深度强化学习的无线纺织体域网能量中性操作方法 (CN116470598A)
 * 一种面向智能服装的能量管理和网络性能的联合优化方法 (CN116321040A)
   
-
