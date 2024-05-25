@@ -1,12 +1,15 @@
-  ---
+---
 permalink: /
-title: "About me"
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+About me
+======
 Associate Professor and Master's Supervisor at the School of Information Science and Technology, Donghua University. I have been deeply involved in teaching within the discipline of communication and information systems, as well as conducting research in areas such as wireless collaborative perception and wearable computing for the Internet of Things (IoT). I have led two National Natural Science Foundation projects, published over 40 academic papers, and filed for six national invention patents. Additionally, I serve on the editorial board for two international journals, am a member of the technical program committee for several international conferences, and act as a reviewer for prestigious journals including IEEE COM MAG, TITS, TVT, TIM, TNSM and TAI.
 
 
@@ -29,5 +32,3 @@ Work experience
 Contact
 ======
 lei.zhang@dhu.edu.cn
-
-
