@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Publications"
-     url: /markdown/
+    url: /markdown/
 
   - title: "Projects"
-     url: /cv/
+    url: /cv/
   
   - title: "Awards"
     url: /publications/
