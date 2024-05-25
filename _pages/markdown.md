@@ -7,32 +7,18 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## 发明专利
 
-* Basic config options: _config.yml
+* 复杂室内环境下一种基于改进粒子滤波的无线定位方法 (CN110333479A)
 * Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
-
-## Tips and hints
-
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
-
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+* 一种基于机器学习的蜂窝网无线感知与定位一体化方法 (CN116056140A)
+* 基于多任务学习蜂窝网无线信号与用户轨迹联合预测方法 (CN116261158A)
+* 基于人在回路的模型无关可解释方法及可解释框架 (CN116227602A)
+* 一种基于深度强化学习的无线纺织体域网能量中性操作方法 (CN116470598A)
+* 一种面向智能服装的能量管理和网络性能的联合优化方法 (CN116321040A)
+  
+## 代表性SCI期刊论文：
+ * [ L. Zhang, P. Lin, “Reinforcement Learning Based Energy-Neutral Operation for Hybrid EH Powered TBAN,” Future Generation Computer Systems, vol. 140, pp. 311-320, 2023. (JCR Q1, 中科院Top)](https://shopify.github.io/liquid/tags/control-flow/)
  * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
 
 ## MathJax 
