@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "本科生课程"
+excerpt: "《无线移动通信》、《工程导论》"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I teach two undergraduate courses, Wireless Mobile Communication and Introduction to Engineering, in the School of Information Science and Technology, Donghua University.
