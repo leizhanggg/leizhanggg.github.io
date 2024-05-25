@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Awards"
 permalink: /publications/
 author_profile: true
 ---
@@ -15,9 +15,6 @@ author_profile: true
   * 2021年: 东华大学群众体育先进个人
   * 2018年:  UPM Premio Extraordinarios de Doctorado (马德里理工大学杰出博士毕业生奖)
     
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
 {% include base_path %}
 
