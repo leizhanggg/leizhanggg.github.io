@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Publications"
 author_profile: true
 redirect_from: 
   - /md/
@@ -10,7 +10,6 @@ redirect_from:
 ## 发明专利
 
 * 复杂室内环境下一种基于改进粒子滤波的无线定位方法 (CN110333479A)
-* Top navigation bar config: _data/navigation.yml
 * 一种基于机器学习的蜂窝网无线感知与定位一体化方法 (CN116056140A)
 * 基于多任务学习蜂窝网无线信号与用户轨迹联合预测方法 (CN116261158A)
 * 基于人在回路的模型无关可解释方法及可解释框架 (CN116227602A)
@@ -18,7 +17,7 @@ redirect_from:
 * 一种面向智能服装的能量管理和网络性能的联合优化方法 (CN116321040A)
   
 ## 代表性SCI期刊论文：
- * [ L. Zhang, P. Lin, “Reinforcement Learning Based Energy-Neutral Operation for Hybrid EH Powered TBAN,” Future Generation Computer Systems, vol. 140, pp. 311-320, 2023. (JCR Q1, 中科院Top)](https://shopify.github.io/liquid/tags/control-flow/)
+ * [ L. Zhang, P. Lin, “Reinforcement Learning Based Energy-Neutral Operation for Hybrid EH Powered TBAN,” Future Generation Computer Systems, vol. 140, pp. 311-320, 2023. (JCR Q1, 中科院Top)](http://leizhanggg.github.io/files/1_Reinforcement Learning Based Energy-Neutral Operation for Hybrid EH Powered TBAN(1).pdf)
  * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
 
 ## MathJax 
